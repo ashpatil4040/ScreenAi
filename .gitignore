@@ -58,3 +58,6 @@ application-dev.properties
 *.tmp
 *.temp
 *.bak
+
+### Research files ###
+LATENCY_RESEARCH.md
